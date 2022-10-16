@@ -12,7 +12,7 @@ a{
 body{
     font-family: 'Poppins', sans-serif,'Red Hat Display', sans-serif,'Varela Round', sans-serif;
     min-height: 100vh;
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(./images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-color: hsl(225, 100%, 94%);
@@ -101,7 +101,7 @@ a.Cancel-btn:hover{
 
 @media only screen and (max-width: 425px){
     body{
-        background-image: url(/images/pattern-background-mobile.svg);
+        background-image: url(./images/pattern-background-mobile.svg);
         font-size: 14px;
     }
     .container{
